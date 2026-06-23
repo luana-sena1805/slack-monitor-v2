@@ -1,6 +1,6 @@
 const { WebClient } = require('@slack/web-api')
-const token = 'xoxb-10909892926627-10914229002742-rqlCF2RWSZ0Uj3DSnoCMh4Jy' 
-const channel = 'C0ATX76H5DW' 
+const token = 'xoxb-aaaa' 
+const channel = 'C0aaaaaaaaaW' 
 
 
 const slack = new WebClient(token);
